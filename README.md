@@ -1,6 +1,6 @@
-Hi, I'm [Your Name]
+Hi, I'm Hidayat Ullah
 
-Electrical Engineer | Embedded Systems | Power & Control Systems
+Electrical Engineer Computin and AI
 
 I’m an Electrical Engineer specializing in designing, analyzing, and implementing electrical and electronic systems. I focus on practical engineering solutions combining hardware, software, and system-level thinking.
 
